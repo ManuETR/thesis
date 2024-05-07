@@ -1,0 +1,19 @@
+\begin{thebibliography}{1}
+
+\bibitem{Iqbal22}
+Muhammad~Mubashir Iqbal, Zain~Anwar Ali, Rehan Khan, and Muhammad Shafiq.
+\newblock Motion planning of uav swarm: Recent challenges and approaches.
+\newblock In Zain~Anwar Ali and Dragan Cvetković, editors, {\em Aeronautics},
+  chapter~3. IntechOpen, Rijeka, 2022.
+
+\bibitem{navigation}
+ResearchGate.
+\newblock Learning indoor robot navigation using visual and sensorimotor map
+  information.
+
+\bibitem{shah2017airsim}
+Shital Shah, Debadeepta Dey, Chris Lovett, and Ashish Kapoor.
+\newblock Airsim: High-fidelity visual and physical simulation for autonomous
+  vehicles, 2017.
+
+\end{thebibliography}

@@ -11,6 +11,8 @@ This Repository is meant to be the central point for managing and linking the cu
 - [UUtils](https://github.com/ManuETR/UUtils)
 - [UTFPublisher](https://github.com/ManuETR/UTFPublisher)
 
+### Links
+- [Naming Convention](https://dev.epicgames.com/documentation/en-us/unreal-engine/recommended-asset-naming-conventions-in-unreal-engine-projects?application_version=5.3)
 
 ## Robotic models
 - [robotic-models](https://github.com/ManuETR/robotic-models)

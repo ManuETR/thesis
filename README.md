@@ -12,8 +12,7 @@ This Repository is meant to be the central point for managing and linking the cu
 - [UTFPublisher](https://github.com/ManuETR/UTFPublisher)
 
 ### Links
-- [Naming Convention](https://dev.epicgames.com/documentation/en-us/unreal-engine/recommended-asset-naming-conventions-in-unreal-engine-projects?application_version=5.3)
-
+- [Naming Convention](https://dev.epicgames.com/documentation/en-us/unreal-engine/epic-cplusplus-coding-standard-for-unreal-engine)
 ## Robotic models
 - [robotic-models](https://github.com/ManuETR/robotic-models)
 - [cogimon-gazebo-models](https://github.com/corlab/cogimon-gazebo-models/tree/master)
